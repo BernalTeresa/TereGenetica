@@ -1,1 +1,1 @@
-# TereGenetica
+# TereGenetica he venido a aprender NGS
